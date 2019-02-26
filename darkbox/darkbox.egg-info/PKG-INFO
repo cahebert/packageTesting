@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: darkbox
+Version: 0.1
+Summary: testing making a pip intallable package
+Home-page: http://github.com/cahebert/darkbox
+Author: claire
+Author-email: chebert@stanford.edu
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
